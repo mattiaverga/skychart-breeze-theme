@@ -1,3 +1,6 @@
+a1
+b1	window-close
+b2	window-list-reverse
 i0	document-new
 i1	document-open
 i2	document-save-as
@@ -7,16 +10,115 @@ i5	window-split-top-bottom
 i6	view-zoom-in
 i7	view-zoom-out
 i8	view-FOV
+i9
+i10	configure
+i11	application-exit
+i12	help
+i13	document-close
 i14	window-split-left-right
+i15	flip-horizontal
+i16	flip-horizontal-off
+i17	flip-vertical
+i18	flip-vertical-off
 i19	edit-undo
 i20	edit-redo
+i21	rotate-right
+i22	rotate-left
+i23
+i24
+i25
+i26
+i27
+i28
+i29
+i30
+i31
+i32
+i33
+i34
+i35
+i36	document-save-image
+i37	go-east
+i38	go-north
+i39	go-south
+i40	go-west
+i41
+i42
 i43	animation-step-back
 i44	animation-step-forward
+i45	set-date-time
 i46	view-object-list
+i47
+i48
+i49
+i50
+i51
+i52
+i53
+i54
+i55
+i56
+i57
+i58
+i59
+i60
+i61
+i62
+i63
+i64
+i65
+i66
+i67
+i68
+i69
+i70
+i71
+i72
+i73
+i74
 i75	view-agenda
 i76	edit-find
+i77
 i78	view-position
+i79	window-link
+i80	anchor
+i81
+i82
+i83
 i84	animation-now
+i85	set-observer
+i86
+i87
 i88	animation-forward
+i89
+i90	ruler
+i91	compass
+i92	rotate-180
+i93	rotate-180-off
+i94
+i95
+i96	mouse-zoom
+i97	mouse-move
 i98	view-observation-list
+i99
+i100
+i101
+i102
+i103
+i104
+i105	edit-copy
+i106	view-fullscreen
+i107
+i108
+i109
+i110
+i111
+i112
+i113
+i114
+i115
+i116
+i117
+i118
+i119
 i120	animation-back
