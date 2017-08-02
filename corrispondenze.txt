@@ -42,7 +42,7 @@ i37	go-east
 i38	go-north
 i39	go-south
 i40	go-west
-i41
+i41	go-zenith
 i42
 i43	animation-step-back
 i44	animation-step-forward
@@ -57,7 +57,7 @@ i52
 i53
 i54
 i55
-i56
+i56	show-stars
 i57
 i58
 i59
@@ -66,11 +66,11 @@ i61
 i62
 i63
 i64
-i65
+i65	show-constellation-lines
 i66
 i67
 i68
-i69
+i69	show-fields
 i70
 i71
 i72
@@ -116,7 +116,7 @@ i111
 i112
 i113
 i114
-i115
+i115	configure-all
 i116
 i117
 i118
