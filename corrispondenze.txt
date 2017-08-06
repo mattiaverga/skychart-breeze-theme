@@ -25,7 +25,7 @@ i20	edit-redo
 i21	rotate-right
 i22	rotate-left
 i23
-i24
+i24	show-eq-grid
 i25
 i26
 i27
@@ -58,7 +58,7 @@ i53
 i54
 i55
 i56	show-stars
-i57
+i57	show-dso
 i58
 i59
 i60
@@ -71,11 +71,11 @@ i66
 i67
 i68
 i69	show-fields
-i70
-i71
-i72
-i73
-i74
+i70	show-below-horizon
+i71	chart-eq-coords
+i72	chart-az-coords
+i73	chart-ec-coords
+i74	chart-gl-coords
 i75	view-agenda
 i76	edit-find
 i77
