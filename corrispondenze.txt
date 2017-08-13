@@ -49,10 +49,10 @@ i44	animation-step-forward
 i45	set-date-time
 i46	view-object-list
 i47
-i48
-i49
-i50
-i51
+i48	telescope-connect-off
+i49	telescope-connect-on
+i50	telescope-move
+i51	telescope-synch
 i52
 i53
 i54
@@ -64,7 +64,7 @@ i59
 i60
 i61
 i62
-i63
+i63	show-milkyway
 i64
 i65	show-constellation-lines
 i66
