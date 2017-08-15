@@ -96,7 +96,7 @@ i91	compass
 i92	rotate-180
 i93	rotate-180-off
 i94
-i95
+i95	telescope-stop-move
 i96	mouse-zoom
 i97	mouse-move
 i98	view-observation-list
@@ -111,7 +111,7 @@ i106	view-fullscreen
 i107
 i108
 i109
-i110
+i110	telescope-follow
 i111
 i112
 i113
