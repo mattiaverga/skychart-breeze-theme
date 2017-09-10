@@ -53,21 +53,21 @@ i48	telescope-connect-off
 i49	telescope-connect-on
 i50	telescope-move
 i51	telescope-synch
-i52
+i52	#### show-custom-objects ####
 i53
 i54
 i55
 i56	show-stars
 i57	show-dso
-i58
-i59
-i60
-i61
-i62
+i58	show-images
+i59	show-dso-lines
+i60	show-asteroids
+i61	show-comets
+i62	show-planets
 i63	show-milkyway
 i64
 i65	show-constellation-lines
-i66
+i66	show-constellations-boundaries
 i67
 i68
 i69	show-fields
@@ -82,7 +82,7 @@ i77
 i78	view-position
 i79	window-link
 i80	anchor
-i81
+i81	get-dss-images
 i82
 i83
 i84	animation-now
