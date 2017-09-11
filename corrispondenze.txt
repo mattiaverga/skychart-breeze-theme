@@ -68,8 +68,8 @@ i63	show-milkyway
 i64
 i65	show-constellation-lines
 i66	show-constellations-boundaries
-i67
-i68
+i67	show-galactic-equator
+i68	show-ecliptic
 i69	show-fields
 i70	show-below-horizon
 i71	chart-eq-coords

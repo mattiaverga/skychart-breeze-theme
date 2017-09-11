@@ -10,10 +10,13 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
-   sodipodi:docname="night-vision-off.svg"
+   sodipodi:docname="night-vision.svg"
    width="16"
    height="16"
-   inkscape:version="0.92+devel unknown">
+   inkscape:version="0.92+devel unknown"
+   inkscape:export-filename="/mnt/partizione/icone/originali_dark/replace/i82.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -22,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -64,14 +67,14 @@
       </style>
   </defs>
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none;stroke-width:0.81649655"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.81649655"
      d="M 7.9999996,2 V 2.00147 C 5.3337243,2.0014625 4,3.4911031 4,5.3002906 4,7.2498156 6.5902775,11 6.5902775,11 L 9.4097221,10.9971 C 9.4097221,10.997075 12,7.2498178 12,5.3002974 12,3.4911234 10.667057,2 7.9999996,2 Z m 0,0.7514649 c 2.0743814,0 3.1111114,1.2418165 3.1111114,2.7495117 0,1.6246502 -2.0138893,4.7475584 -2.0138893,4.7475584 l -2.1944442,0.0029 c 0,0 -2.0138887,-3.1258382 -2.0138887,-4.7504884 0,-1.5077174 1.037351,-2.7480467 3.1111108,-2.7480468 z"
      class="ColorScheme-Text"
      id="path4"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccsccsccsccscc" />
   <path
-     style="fill:currentColor;fill-opacity:0.6;stroke:none;stroke-width:0.81009263"
+     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.81009263"
      d="m 6.5188679,11.375 v 1.3125 c 0,0.727125 0.5017504,1.3125 1.1249999,1.3125 H 8.393868 c 0.6232504,0 1.1249999,-0.585375 1.1249999,-1.3125 V 11.375 H 8.393868 7.6438678 Z"
      class="ColorScheme-Text"
      id="path4-3"
