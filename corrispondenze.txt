@@ -78,19 +78,19 @@ i73	chart-ec-coords
 i74	chart-gl-coords
 i75	view-agenda
 i76	edit-find
-i77
+i77	show-fits-image
 i78	view-position
 i79	window-link
 i80	anchor
 i81	get-dss-images
-i82
+i82	night-vision
 i83
 i84	animation-now
 i85	set-observer
-i86
+i86	show-fits-image-flashing
 i87
 i88	animation-forward
-i89
+i89	show-virtual-observatory
 i90	ruler
 i91	compass
 i92	rotate-180
