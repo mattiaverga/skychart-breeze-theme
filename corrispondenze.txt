@@ -26,7 +26,7 @@ i21	rotate-right
 i22	rotate-left
 i23
 i24	show-eq-grid
-i25
+i25	show-grid
 i26
 i27
 i28
@@ -36,19 +36,19 @@ i31
 i32
 i33
 i34
-i35
+i35	sky-color
 i36	document-save-image
 i37	go-east
 i38	go-north
 i39	go-south
 i40	go-west
 i41	go-zenith
-i42
+i42	FOV-allsky
 i43	animation-step-back
 i44	animation-step-forward
 i45	set-date-time
 i46	view-object-list
-i47
+i47	document-print-settings
 i48	telescope-connect-off
 i49	telescope-connect-on
 i50	telescope-move
@@ -65,7 +65,7 @@ i60	show-asteroids
 i61	show-comets
 i62	show-planets
 i63	show-milkyway
-i64
+i64	show-labels
 i65	show-constellation-lines
 i66	show-constellations-boundaries
 i67	show-galactic-equator
@@ -84,7 +84,7 @@ i79	window-link
 i80	anchor
 i81	get-dss-images
 i82	night-vision
-i83
+i83	edit-label
 i84	animation-now
 i85	set-observer
 i86	show-fits-image-flashing
@@ -108,16 +108,16 @@ i103
 i104
 i105	edit-copy
 i106	view-fullscreen
-i107
+i107	server-info
 i108
 i109
 i110	telescope-follow
 i111
 i112
 i113
-i114
+i114	rotate-reset
 i115	configure-all
-i116
+i116	configure-save
 i117
 i118
 i119
