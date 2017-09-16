@@ -15,7 +15,10 @@
    version="1.1"
    id="svg4277"
    inkscape:version="0.92+devel unknown"
-   sodipodi:docname="show-custom-objects.svg">
+   sodipodi:docname="show-custom-objects.svg"
+   inkscape:export-filename="/mnt/partizione/icone/originali/replace/i23.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4271" />
   <sodipodi:namedview
@@ -54,7 +57,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
