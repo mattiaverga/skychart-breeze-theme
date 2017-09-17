@@ -1,4 +1,4 @@
-a1
+a1	### not used ###
 b1	window-close
 b2	window-list-reverse
 i0	document-new
@@ -10,7 +10,7 @@ i5	window-split-top-bottom
 i6	view-zoom-in
 i7	view-zoom-out
 i8	view-FOV
-i9
+i9	### not used ###
 i10	configure
 i11	application-exit
 i12	help
@@ -27,14 +27,14 @@ i22	rotate-left
 i23	not used ---> used for ###show-custom-objects###
 i24	show-eq-grid
 i25	show-grid
-i26
-i27
-i28
-i29
-i30
-i31
+i26	### not used ###
+i27	### not used ###
+i28	### not used ###
+i29	### not used ###
+i30	### not used ###
+i31	### not used ###
 i32	FOV-bar
-i33
+i33	### not used ###
 i34	chart-style
 i35	sky-color
 i36	document-save-image
@@ -95,17 +95,17 @@ i90	ruler
 i91	compass
 i92	rotate-180
 i93	rotate-180-off
-i94
+i94	view-solar-system-info
 i95	telescope-stop-move
 i96	mouse-zoom
 i97	mouse-move
 i98	view-observation-list
-i99
-i100
-i101
-i102
-i103
-i104
+i99	stars-nebulae-limits
+i100	divider
+i101	separator
+i102	search-box
+i103	animation-edit-time-increment
+i104	animation-edit-time-units
 i105	edit-copy
 i106	view-fullscreen
 i107	server-info
