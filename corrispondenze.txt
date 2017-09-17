@@ -109,12 +109,12 @@ i104	animation-edit-time-units
 i105	edit-copy
 i106	view-fullscreen
 i107	server-info
-i108
-i109
+i108	view-clock
+i109	view-image-list
 i110	telescope-follow
 i111	telescope-control-panel
-i112
-i113
+i112	show-chart-info
+i113	show-chart-legend
 i114	rotate-reset
 i115	configure-all
 i116	configure-save
