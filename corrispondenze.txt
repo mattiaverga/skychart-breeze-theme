@@ -10,11 +10,11 @@ i5	window-split-top-bottom
 i6	view-zoom-in
 i7	view-zoom-out
 i8	view-FOV
-i9	### not used ###
+i9	not used ---> used for ### document-print-preview ###
 i10	configure
 i11	application-exit
 i12	help
-i13	document-close
+i13	document-close ---> ### it's present but it's not showed in file - close chart ###
 i14	window-split-left-right
 i15	flip-horizontal
 i16	flip-horizontal-off
