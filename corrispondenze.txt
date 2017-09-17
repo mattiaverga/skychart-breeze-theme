@@ -16,25 +16,25 @@ i11	application-exit
 i12	help
 i13	document-close ---> ### it's present but it's not showed in file - close chart ###
 i14	window-split-left-right
-i15	flip-horizontal
-i16	flip-horizontal-off
-i17	flip-vertical
-i18	flip-vertical-off
+i15	chart-flip-horizontal
+i16	chart-flip-horizontal-off
+i17	chart-flip-vertical
+i18	chart-flip-vertical-off
 i19	edit-undo
 i20	edit-redo
-i21	rotate-right
-i22	rotate-left
+i21	chart-rotate-right
+i22	chart-rotate-left
 i23	not used ---> used for ###show-custom-objects###
 i24	show-eq-grid
 i25	show-grid
-i26	### not used ###
-i27	### not used ###
-i28	### not used ###
-i29	### not used ###
-i30	### not used ###
-i31	### not used ###
+i26	not used ---> used for ### view-varobs ###
+i27	not used ---> used for ### view-trajectories-simulation ###
+i28	not used ---> used for ### view-connect-SAMP ###
+i29	not used ---> used for ### view-disconnect-SAMP ###
+i30	not used ---> used for ### view-SAMP-status ###
+i31	not used ---> used for ### view-SAMP-setup ###
 i32	FOV-bar
-i33	### not used ###
+i33	not used ---> used for ### view-observer-tools ###
 i34	chart-style
 i35	sky-color
 i36	document-save-image
@@ -43,7 +43,7 @@ i38	go-north
 i39	go-south
 i40	go-west
 i41	go-zenith
-i42	FOV-allsky
+i42	chart-FOV-allsky
 i43	animation-step-back
 i44	animation-step-forward
 i45	set-date-time
@@ -76,7 +76,7 @@ i71	chart-eq-coords
 i72	chart-az-coords
 i73	chart-ec-coords
 i74	chart-gl-coords
-i75	view-agenda
+i75	view-calendar
 i76	edit-find
 i77	show-fits-image
 i78	view-position
@@ -91,15 +91,15 @@ i86	show-fits-image-flashing
 i87	not used ---> used for ###window-maximize###
 i88	animation-forward
 i89	show-virtual-observatory
-i90	ruler
+i90	view-ruler
 i91	compass
-i92	rotate-180
-i93	rotate-180-off
+i92	chart-rotate-180
+i93	chart-rotate-180-off
 i94	view-solar-system-info
 i95	telescope-stop-move
 i96	mouse-zoom
 i97	mouse-move
-i98	view-observation-list
+i98	view-observing-list
 i99	stars-nebulae-limits
 i100	divider
 i101	separator
@@ -108,14 +108,14 @@ i103	animation-edit-time-increment
 i104	animation-edit-time-units
 i105	edit-copy
 i106	view-fullscreen
-i107	server-info
+i107	view-server-info
 i108	view-clock
 i109	view-image-list
 i110	telescope-follow
 i111	telescope-control-panel
 i112	show-chart-info
 i113	show-chart-legend
-i114	rotate-reset
+i114	chart-rotate-reset
 i115	configure-all
 i116	configure-save
 i117	chart-style-line

@@ -10,10 +10,10 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg6"
-   sodipodi:docname="show-grid.svg"
+   sodipodi:docname="show-eq-grid.svg"
    width="16"
    height="16"
-   inkscape:export-filename="/mnt/partizione/icone/originali/replace/i25.png"
+   inkscape:export-filename="/mnt/partizione/icone/originali/replace/i24.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="0.92+devel unknown">
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
