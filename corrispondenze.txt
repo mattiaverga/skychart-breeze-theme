@@ -1,4 +1,4 @@
-a1	### not used ###
+a1	blank
 b1	window-close
 b2	window-list-reverse
 i0	document-new
@@ -10,11 +10,11 @@ i5	window-split-top-bottom
 i6	view-zoom-in
 i7	view-zoom-out
 i8	view-FOV
-i9	not used ---> used for ### document-print-preview ###
+i9	document-print-preview
 i10	configure
 i11	application-exit
 i12	help
-i13	document-close ---> ### it's present but it's not showed in file - close chart ###
+i13	document-close
 i14	window-split-left-right
 i15	chart-flip-horizontal
 i16	chart-flip-horizontal-off
@@ -24,17 +24,17 @@ i19	edit-undo
 i20	edit-redo
 i21	chart-rotate-right
 i22	chart-rotate-left
-i23	not used ---> used for ###show-custom-objects###
+i23	show-custom-objects
 i24	show-eq-grid
 i25	show-grid
-i26	not used ---> used for ### view-varobs ###
-i27	not used ---> used for ### view-trajectories-simulation ###
-i28	not used ---> used for ### view-connect-SAMP ###
-i29	not used ---> used for ### view-disconnect-SAMP ###
-i30	not used ---> used for ### view-SAMP-status ###
-i31	not used ---> used for ### view-SAMP-setup ###
+i26	view-varobs
+i27	view-trajectories-simulation
+i28	view-connect-SAMP
+i29	view-disconnect-SAMP
+i30	view-SAMP-status
+i31	view-SAMP-setup
 i32	FOV-bar
-i33	not used ---> used for ### view-observer-tools ###
+i33	view-observer-tools
 i34	chart-style
 i35	sky-color
 i36	document-save-image
@@ -53,7 +53,7 @@ i48	telescope-connect-off
 i49	telescope-connect-on
 i50	telescope-move
 i51	telescope-synch
-i52	show-stars-more ---> currently used also for ###show-custom-objects### moved to i23
+i52	show-stars-more
 i53	show-stars-less
 i54	show-dso-more
 i55	show-dso-less
@@ -85,10 +85,10 @@ i80	anchor
 i81	get-dss-images
 i82	night-vision
 i83	edit-label
-i84	animation-now ---> currently used also for ###window-maximize### moved to i87
+i84	animation-now
 i85	set-observer
 i86	show-fits-image-flashing
-i87	not used ---> used for ###window-maximize###
+i87	window-maximize
 i88	animation-forward
 i89	show-virtual-observatory
 i90	view-ruler

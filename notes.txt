@@ -1,0 +1,14 @@
+a1.png ---> not used
+i9.png ---> used for #document-print-preview#
+i13.png ---> it's present but it's not showed in #file - close chart#
+i23.png ---> used for #show-custom-objects#
+i26.png ---> used for #view-varobs#
+i27.png ---> used for #view-trajectories-simulation#
+i28.png ---> used for #view-connect-SAMP#
+i29.png ---> used for #view-disconnect-SAMP#
+i30.png ---> used for #view-SAMP-status#
+i31.png ---> used for #view-SAMP-setup#
+i33.png ---> used for #view-observer-tools#
+i52.png ---> currently used also for #show-custom-objects# which was moved to i23.png
+i84.png ---> currently used also for #window-maximize# which was moved to i87.png
+i87.png ---> used for #window-maximize#
