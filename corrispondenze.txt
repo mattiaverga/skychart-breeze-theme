@@ -1,6 +1,3 @@
-a1	blank
-b1	window-close
-b2	window-list-reverse
 i0	document-new
 i1	document-open
 i2	document-save-as
@@ -122,3 +119,5 @@ i117	chart-style-line
 i118	chart-style-photo
 i119	chart-style-parametric
 i120	animation-back
+i121	window-close
+i122	window-list-reverse
