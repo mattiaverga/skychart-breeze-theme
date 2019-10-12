@@ -130,3 +130,6 @@ i128	update-deltat
 i129	set-display
 i130	set-chart
 i131	set-catalog
+i132	set-general
+i133	set-internet
+
