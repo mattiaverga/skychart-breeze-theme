@@ -124,8 +124,9 @@ i122	window-list-reverse
 i123	update-comets
 i124	update-asteroids
 i125	update-artificial-satellites
-i126	update-grs
-i127	update-deltat
-i128	set-display
-i129	set-chart
-i130	set-catalog
+i126	view-mosaic
+i127	update-grs
+i128	update-deltat
+i129	set-display
+i130	set-chart
+i131	set-catalog
